@@ -6,7 +6,35 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2018-04-10T08:41:35-04:00
 toc: true
 ---
-# About Arkadelphia Senior Activilty Center
+# Arkadelphia Senior Activity Center / County Office
+
+<div class="address-pop">
+
+1305 N. 10th. St.  
+Arkadelphia, AR 71923  
+Community Development
+
+Phone: 870-403-0679  
+Fax: 870-246-5036
+
+**Public and Medicaid Transportation**
+
+*   Phone: 870-246-8747
+*   Fax: 870-230-1022
+
+**Senior Activity Center / Food and Nutrition**
+
+*   Phone: 870-246-9871
+*   Fax: 870-230-1022
+
+**All other services**
+
+*   Phone: 870-246-8089
+*   Fax: 870-230-1022
+
+</div>
+
+* * *
 
 ## Demo Pages
 
