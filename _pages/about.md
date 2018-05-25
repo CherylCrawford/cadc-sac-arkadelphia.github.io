@@ -8,14 +8,12 @@ toc: true
 ---
 # Arkadelphia Senior Activity Center / County Office
 
-<div class="address-pop">
+  1305 N. 10th. St.  
+  Arkadelphia, AR 71923  
+  Community Development
 
-1305 N. 10th. St.  
-Arkadelphia, AR 71923  
-Community Development
-
-Phone: 870-403-0679  
-Fax: 870-246-5036
+  Phone: 870-403-0679  
+  Fax: 870-246-5036
 
 **Public and Medicaid Transportation**
 
@@ -31,8 +29,6 @@ Fax: 870-246-5036
 
 *   Phone: 870-246-8089
 *   Fax: 870-230-1022
-
-</div>
 
 * * *
 
