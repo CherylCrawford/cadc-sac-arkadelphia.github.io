@@ -8,7 +8,7 @@ toc: true
 ---
 # Arkadelphia Senior Activity Center / County Office
 
-  1305 N. 10th. St.  
+  1305 N 10th St  
   Arkadelphia, AR 71923  
   Community Development
 
