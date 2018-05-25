@@ -11,15 +11,15 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "davsk/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "davsk/minimal-mistakes"
+minimal_mistakes_skin    : "air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "CADC Arkadelphia Senior Activity Center"
 title_separator          : "-"
 name                     : "CADC"
-description              : "Personal website."
+description              : "Arkadelphia Senior Activity Center, CADC &#8211; Building Futures Through Community Action, The mission of CADC is to alleviate the causes and conditions of poverty, to help vulnerable populations achieve their potential and to build strong communities in Arkansas through community action."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
